@@ -104,6 +104,9 @@ dependencies:
   three-globe:
     specifier: ^2.43.0
     version: 2.43.0(three@0.178.0)
+  three-stdlib:
+    specifier: ^2.36.0
+    version: 2.36.0(three@0.178.0)
 
 devDependencies:
   '@types/negotiator':
